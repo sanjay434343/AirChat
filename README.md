@@ -1,28 +1,3 @@
-Here’s a comprehensive set of content for the **AirChat** app, including short and long descriptions, as well as the README and release contents.
-
----
-
-### **Short Description:**
-
-**AirChat** is a mobile app that lets you chat and share images and videos with nearby devices connected to the same Wi-Fi network. No internet required—just connect and communicate locally!
-
----
-
-### **Long Description:**
-
-**AirChat** is a fast and simple mobile app designed to let users communicate with nearby devices connected to the same Wi-Fi network. Whether you need to chat, share images, or send videos, AirChat makes local communication effortless without the need for internet. It’s perfect for events, conferences, or any situation where devices are on the same local network.
-
-Features:
-- **Local Chat** 💬: Send and receive messages with nearby devices connected to the same Wi-Fi.
-- **Share Media** 📸🎥: Easily send images and videos without the internet.
-- **Fast and Simple** ⚡: No setup required—just connect to Wi-Fi and start chatting.
-- **User-Friendly** 💻: Clean and intuitive interface for seamless interaction.
-
----
-
-### **README for GitHub:**
-
-```markdown
 # **AirChat - Local Chat & Media Sharing (Wi-Fi)**
 
 **AirChat** is a mobile app that allows users to chat and share images/videos with nearby devices connected to the same Wi-Fi network. Whether you're in a classroom, office, or event, AirChat provides seamless local communication without the need for the internet.
