@@ -1,0 +1,10 @@
+{
+  "name": "AirChat",
+  "version": "1.0.0",
+  "description": "AirChat is a local chat and media sharing app that allows users to communicate and share images/videos over the same Wi-Fi network—no internet needed. Ideal for classrooms, events, or anywhere with Wi-Fi access.",
+  "icon_url": "https://github.com/sanjay434343/AirChat/blob/main/assets/images/icon.png?raw=true",
+  "release": "https://github.com/sanjay434343/AirChat/releases/tag/1%2C.0.0",
+  "package_name": "com.example.airchat",
+  "changelog": "Initial release: Local chat, image and video sharing, cross-platform support, and instant communication over Wi-Fi.",
+  "category": "Communication"
+}
